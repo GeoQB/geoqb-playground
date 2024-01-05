@@ -1,0 +1,30 @@
+trunk
+ quarry
+ nature_reserve
+ military
+ boundary_stone
+ mine
+ floorer
+ fishing
+ archaeological_site
+ beach_resort
+ model_runway
+ tinsmith
+ monument
+ marina
+ resort
+ restoration;woodturning
+ -
+ Bergbaulehrpfad
+ distillery
+ agricultural_engines
+ 1
+ Huthaus des Joseph- und Marienzug Erbstolln
+ coachbuilder
+ dog_training
+ karting
+ transitional_area
+ handicraft
+ racetrack
+ sport
+ hangar

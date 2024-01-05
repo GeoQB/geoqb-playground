@@ -1,0 +1,25 @@
+{
+    "location_name": "Chemnitz",
+    "run_id": "du___Chemnitz___30___891e349230bffff___latest",
+    "center": [
+        50.832261,
+        12.925298
+    ],
+    "centerURI": null,
+    "myBBCenter_h3index": "891e349230bffff",
+    "bb": "(35.832261, -2.0747020000000003, 65.832261, 27.925297999999998);",
+    "area": null,
+    "l": 30,
+    "zoom": 9,
+    "title": "Lifestyle_NEG_craft around (Chemnitz) radius=15.0",
+    "qn": "Chemnitz_r15.0_Lifestyle_NEG_craft",
+    "query": "\nSELECT ?osmid ?distance ?loc ?tag WHERE {\n  VALUES ?tag { \"car_painter\" \"agricultural_engines\" }\n  ?osmid osmt:craft ?tag . \n  SERVICE wikibase:around { \n      ?osmid osmm:loc ?loc . \n      bd:serviceParam wikibase:center \"Point(12.925298 50.832261)\"^^geo:wktLiteral . \n      bd:serviceParam wikibase:radius \"15\" . \n      bd:serviceParam wikibase:distance ?distance .\n  } \n  FILTER(?distance < 15)\n} \n    ",
+    "fnLinks": "graph_layers/edges/Chemnitz_r15.0_Lifestyle_NEG_craft_tag_links.csv",
+    "fnPlaces": "graph_layers/vertexes/Chemnitz_r15.0_Lifestyle_NEG_craft_places_nodes.csv",
+    "fnGrid": "graph_layers/grid/Chemnitz_r15.0_Lifestyle_NEG_craft_grid.csv",
+    "fnRawOSMResponse": null,
+    "fnRawSophoxResponse": "raw/Chemnitz_r15.0_Lifestyle_NEG_craft_raw_sophox.json",
+    "fnMD": "md/Chemnitz_r15.0_Lifestyle_NEG_craft_MD.json",
+    "weight": -1,
+    "label": "Lifestyle_NEG"
+}

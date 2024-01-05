@@ -1,0 +1,25 @@
+{
+    "location_name": "Stralsund",
+    "run_id": "du___Stralsund___30___891f0386b67ffff___latest",
+    "center": [
+        54.085793,
+        13.129121
+    ],
+    "centerURI": null,
+    "myBBCenter_h3index": "891f0386b67ffff",
+    "bb": "(39.085793, -1.8708790000000004, 69.085793, 28.129120999999998);",
+    "area": null,
+    "l": 30,
+    "zoom": 9,
+    "title": "Services_NEG_amenity around (Stralsund) radius=15.0",
+    "qn": "Services_NEG_amenity around (Stralsund) radius=15.0",
+    "query": "\nSELECT ?osmid ?distance ?loc ?tag WHERE {\n  VALUES ?tag { \"brothel\" \"casino\" \"conference_centre\" \"events_venue\" \"gambling\" \"love_hotel\" \"nightclub\" \"stripclub\" \"swingerclub\" \"prison\" }\n  ?osmid osmt:amenity ?tag . \n  SERVICE wikibase:around { \n      ?osmid osmm:loc ?loc . \n      bd:serviceParam wikibase:center \"Point(13.129121 54.085793)\"^^geo:wktLiteral . \n      bd:serviceParam wikibase:radius \"15\" . \n      bd:serviceParam wikibase:distance ?distance .\n  } \n  FILTER(?distance < 15)\n} \n    ",
+    "fnLinks": "graph_layers/edges/Stralsund_r15.0_Services_NEG_amenity_tag_links.csv",
+    "fnPlaces": "graph_layers/vertexes/Stralsund_r15.0_Services_NEG_amenity_places_nodes.csv",
+    "fnGrid": "graph_layers/grid/Stralsund_r15.0_Services_NEG_amenity_grid.csv",
+    "fnRawOSMResponse": null,
+    "fnRawSophoxResponse": "raw/Stralsund_r15.0_Services_NEG_amenity_raw_sophox.json",
+    "fnMD": "md/Stralsund_r15.0_Services_NEG_amenity_MD.json",
+    "weight": -1,
+    "label": "Services_NEG"
+}

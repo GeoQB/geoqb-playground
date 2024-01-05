@@ -1,0 +1,10 @@
+stop_area
+ blacksmith
+ car_sharing
+ builder
+ train_station
+ construction_business
+ car_painter
+ brothel
+ brewery
+ laser_tag

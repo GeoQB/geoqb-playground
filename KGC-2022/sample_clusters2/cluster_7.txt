@@ -1,0 +1,10 @@
+swimming_pool
+ swimming
+ water_park
+ railway_station
+ swimming_area
+ locomotive
+ climbing_adventure
+ citywalls
+ tanner
+ beachsoccer;soccer

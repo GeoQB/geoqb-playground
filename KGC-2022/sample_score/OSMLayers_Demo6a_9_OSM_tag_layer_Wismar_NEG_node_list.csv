@@ -1,0 +1,321 @@
+index	Id	v_type	attributes.osmid	attributes.tagvalue	attributes.tagname	Lon	Lat	attributes.resolution	attributes.h3index	lat	lon
+0	891f02b358bffff	h3place				11.43858	53.99578	9.0		53.99578107554948	11.438577996810137
+1	891f02869b3ffff	h3place				11.37942	53.99359	9.0		53.99359359113968	11.379421095316937
+2	891f02b8cdbffff	h3place				11.46052	53.84348	9.0		53.84347678603369	11.460517185534835
+3	891f02b1a77ffff	h3place				11.53252	53.89237	9.0		53.89236543574834	11.532518905716515
+4	891f02b1a6bffff	h3place				11.52792	53.8872	9.0		53.88719811844825	11.527922599989044
+5	891f02a101bffff	h3place				11.58452	53.81684	9.0		53.81683917121652	11.584521165142158
+6	891f02b1a2bffff	h3place				11.53764	53.89276	9.0		53.89275717962679	11.537635162431139
+7	891f02a312fffff	h3place				11.61799	53.86517	9.0		53.86516743088628	11.617992134472782
+8	891f02a1c03ffff	h3place				11.66121	53.82266	9.0		53.82265607393557	11.661212700138128
+9	891f02a1047ffff	h3place				11.58504	53.81206	9.0		53.81205703553747	11.585036176907902
+10	891f02ba573ffff	h3place				11.40026	53.89901	9.0		53.89901164677117	11.400260228775426
+11	891f02aa08bffff	h3place				11.5161	53.78267	9.0		53.78267186709975	11.516096408180276
+12	891f02b058bffff	h3place				11.53006	53.986	9.0		53.98599703279118	11.53006027249161
+13	891f02b113bffff	h3place				11.49535	53.92562	9.0		53.925615125713044	11.495351300168721
+14	891f02a308fffff	h3place				11.5658	53.87083	9.0		53.8708306230293	11.56580418661266
+15	891f02b1347ffff	h3place				11.46675	53.90416	9.0		53.90415984490146	11.466745284274852
+16	891f02b8297ffff	h3place				11.39005	53.82838	9.0		53.828375053560336	11.390048353383651
+17	891f02a0697ffff	h3place				11.62081	53.86297	9.0		53.86297215107554	11.62080669409912
+18	891f02b1a0fffff	h3place				11.5297	53.89456	9.0		53.89455702995619	11.529701013518137
+19	891f02b8da3ffff	h3place				11.52415	53.85078	9.0		53.85078274612	11.524149410675184
+20	891f02b854bffff	h3place				11.41119	53.84688	9.0		53.84688409547528	11.411185187331016
+21	891f02bb40fffff	h3place				11.29896	53.85979	9.0		53.859794746041125	11.29896411091582
+22	891f02bae63ffff	h3place				11.44256	53.86618	9.0		53.86617682600466	11.44255906602018
+23	891f02b19afffff	h3place				11.59135	53.92093	9.0		53.92092599127203	11.591349119091232
+24	891f02b0bd3ffff	h3place				11.6149	53.94196	9.0		53.94196359481747	11.614896690959064
+25	891f02a111bffff	h3place				11.62031	53.81956	9.0		53.81955965794401	11.620305857518476
+26	891f02b1a23ffff	h3place				11.53993	53.89534	9.0		53.89534055817683	11.539933896600756
+27	891f02baa47ffff	h3place				11.45436	53.85264	9.0		53.852637333628785	11.45435748520044
+28	891f02b1e13ffff	h3place				11.50433	53.91427	9.0		53.91427372384664	11.504332706443842
+29	891f02b13d7ffff	h3place				11.46058	53.91331	9.0		53.91331093307016	11.460580452271433
+30	891f02b85a7ffff	h3place				11.43797	53.86101	9.0		53.86100504441141	11.437973630586132
+31	891f02b133bffff	h3place				11.47927	53.90753	9.0		53.90753245692832	11.479272457748399
+32	891f02a349bffff	h3place				11.53815	53.88798	9.0		53.887981737133195	11.538154204964068
+33	891f02b197bffff	h3place				11.57702	53.91021	9.0		53.910208472062884	11.577022588459826
+34	891f02ba5cbffff	h3place				11.38439	53.90259	9.0		53.902591021383785	11.384391341426015
+35	891f0284e93ffff	h3place				11.31823	53.94073	9.0		53.94072961734714	11.318232011694972
+36	891f02b126fffff	h3place				11.4417	53.89741	9.0		53.897410666161164	11.44169684274594
+37	891f02ba10bffff	h3place				11.41718	53.88588	9.0		53.88588231253253	11.417184117106963
+38	891f02bb513ffff	h3place				11.32908	53.86697	9.0		53.866974206633735	11.329076439918039
+39	891f02b907bffff	h3place				11.33761	53.79054	9.0		53.790535100454925	11.337611187598137
+40	891f02a044bffff	h3place				11.62592	53.86336	9.0		53.863360094793	11.625922957382375
+41	891f02a3547ffff	h3place				11.57782	53.87897	9.0		53.87897169876977	11.577819082761929
+42	891f02b0203ffff	h3place				11.5035	53.94549	9.0		53.94548714319002	11.50349994041279
+43	891f02b1a73ffff	h3place				11.5274	53.89197	9.0		53.89197347997695	11.52740281822469
+44	891f02b8e8bffff	h3place				11.45698	53.82875	9.0		53.82874614949197	11.456980604045095
+45	891f02b18cbffff	h3place				11.52762	53.91365	9.0		53.913653907752135	11.527621703424291
+46	891f02b8543ffff	h3place				11.41348	53.84947	9.0		53.84947095239492	11.413475954956507
+47	891f02badc7ffff	h3place				11.48314	53.8958	9.0		53.895795101882484	11.48313838926789
+48	891f02b9887ffff	h3place				11.4323	53.7955	9.0		53.795500297451966	11.432303838786316
+49	891f0216d2fffff	h3place				11.39464	53.76363	9.0		53.76363443356787	11.394635645262642
+50	891f02a02bbffff	h3place				11.64613	53.84321	9.0		53.84320698565355	11.646130445021125
+51	891f02ba173ffff	h3place				11.42	53.88369	9.0		53.88369349458123	11.420004200826687
+52	891f02bb5cfffff	h3place				11.32168	53.86399	9.0		53.86398643581711	11.321681013301312
+53	891f02a1c13ffff	h3place				11.6584	53.82485	9.0		53.824854159895764	11.658400852086018
+54	891f02a332fffff	h3place				11.60189	53.84708	9.0		53.847080657818445	11.601885747852005
+55	89754e64993ffff	h3place				-0.00104	0.00059	9.0		0.000585770141507859	-0.0010418183700592666
+56	891f02b0d43ffff	h3place				11.61745	53.96621	9.0		53.966209474180616	11.617450821532916
+57	891f02bb433ffff	h3place				11.30636	53.86278	9.0		53.862783914119866	11.306357290220271
+58	891f02a24d3ffff	h3place				11.59877	53.9239	9.0		53.92389687208095	11.598771952597462
+59	891f02b1a3bffff	h3place				11.53482	53.89495	9.0		53.894948900022555	11.534817370458113
+60	891f02b1107ffff	h3place				11.49253	53.9278	9.0		53.92780429448245	11.492531082089535
+61	891f02b9077ffff	h3place				11.345	53.79352	9.0		53.793524466099164	11.344999335662477
+62	891f02ba10fffff	h3place				11.4223	53.88628	9.0		53.88627883993704	11.4222967330963
+63	891f02b919bffff	h3place				11.36664	53.80727	9.0		53.80726932830467	11.366638500079299
+64	891f02baec3ffff	h3place				11.42617	53.87454	9.0		53.87454041339345	11.42617097345483
+65	891f02bae3bffff	h3place				11.44715	53.87135	9.0		53.87134809059321	11.447145331849807
+66	891f028e917ffff	h3place				11.26268	53.86175	9.0		53.86175341116978	11.26267909846724
+67	891f02bac33ffff	h3place				11.4655	53.89203	9.0		53.89202797660149	11.465498702460932
+68	891f02b850bffff	h3place				11.42088	53.85245	9.0		53.85245413244516	11.420876794076749
+69	891f02bae2bffff	h3place				11.44996	53.86916	9.0		53.86915782935785	11.44996408843305
+70	891f02a0563ffff	h3place				11.67709	53.86723	9.0		53.867227865067825	11.677094801282243
+71	891f02b0887ffff	h3place				11.61284	53.96105	9.0		53.961050113664484	11.612840699237479
+72	891f02ba5cfffff	h3place				11.3895	53.90299	9.0		53.90298898145748	11.38950440639867
+73	891f02a3517ffff	h3place				11.58472	53.88672	9.0		53.88672133709909	11.58472042826189
+74	891f02ba437ffff	h3place				11.37928	53.90219	9.0		53.902192849863034	11.379278447906286
+75	891f02b8053ffff	h3place				11.39463	53.83355	9.0		53.833550615290946	11.394626653867533
+76	891f02842a7ffff	h3place				11.26764	53.93194	9.0		53.93194121796036	11.267637410132627
+77	891f02b184bffff	h3place				11.53096	53.90669	9.0		53.90668931720397	11.530960208324672
+78	891f02ba50bffff	h3place				11.39744	53.9012	9.0		53.90119927351533	11.397439016383183
+79	891f02b0d57ffff	h3place				11.61976	53.96879	9.0		53.96878895936638	11.619756195501033
+80	891f02a364bffff	h3place				11.51852	53.85517	9.0		53.85516877054952	11.518516757034416
+81	891f02b8507ffff	h3place				11.42828	53.85544	9.0		53.85543680161769	11.42827855052189
+82	891f02aacd3ffff	h3place				11.57739	53.78736	9.0		53.78736184849116	11.577391835111746
+83	891f02b91dbffff	h3place				11.35696	53.80169	9.0		53.801692317605905	11.356960652019888
+84	891f02b1bbbffff	h3place				11.5673	53.90465	9.0		53.90465339953389	11.567302374875915
+85	891f02b086bffff	h3place				11.61208	53.94416	9.0		53.94415540934294	11.612078500804877
+86	891f02baa7bffff	h3place				11.45718	53.85045	9.0		53.850446090133865	11.457175249695075
+87	891f02bae6bffff	h3place				11.44027	53.86359	9.0		53.863590999826435	11.440266244514103
+88	891f028e9d7ffff	h3place				11.24964	53.86313	9.0		53.86313212985869	11.24964383868362
+89	891f02b1a4bffff	h3place				11.51487	53.88861	9.0		53.88860508195706	11.514873702756423
+90	891f02a3127ffff	h3place				11.62029	53.86775	9.0		53.86775073671297	11.620293878255882
+91	891f02b80d7ffff	h3place				11.39639	53.84092	9.0		53.840915774906854	11.396387215388632
+92	891f02b8093ffff	h3place				11.40097	53.84609	9.0		53.84609021646739	11.400967049977758
+93	891f02a124bffff	h3place				11.56155	53.79098	9.0		53.79097607668339	11.561549230304644
+94	891f02bb5cbffff	h3place				11.31657	53.86359	9.0		53.86358580629042	11.316572933348382
+95	891f02baca3ffff	h3place				11.46497	53.8968	9.0		53.89680207597231	11.464974333095359
+96	891f02b0a6fffff	h3place				11.60107	53.92648	9.0		53.92647822220648	11.601074861748183
+97	891f02b0883ffff	h3place				11.60772	53.96066	9.0		53.96066124106013	11.60771692806532
+98	891f02ba553ffff	h3place				11.38721	53.9004	9.0		53.90040381729047	11.387212912663198
+99	891f02b0aa7ffff	h3place				11.60977	53.94157	9.0		53.94157488258772	11.609774402847208
+100	891f02a26afffff	h3place				11.61107	53.90558	9.0		53.90557695701148	11.611069194696926
+101	891f02a01dbffff	h3place				11.6753	53.85987	9.0		53.85986574422903	11.675299067302287
+102	891f02b92b7ffff	h3place				11.33533	53.78794	9.0		53.78794498284497	11.335326325355684
+103	891f02b1bcbffff	h3place				11.54735	53.89832	9.0		53.8983151675723	11.547349803419362
+104	891f02b9d53ffff	h3place				11.43407	53.80287	9.0		53.80286993079903	11.43406797199145
+105	891f02b9a6bffff	h3place				11.41557	53.76044	9.0		53.760437240863396	11.4155724533298
+106	891f02b136fffff	h3place				11.4775	53.90018	9.0		53.900175080478085	11.477499874285296
+107	891f02a3017ffff	h3place				11.56862	53.86864	9.0		53.86863703222699	11.568620199482798
+108	891f02b85afffff	h3place				11.43568	53.85842	9.0		53.85841895977394	11.435681224215358
+109	891f02b0817ffff	h3place				11.61335	53.95628	9.0		53.95627906556982	11.61335481131862
+110	891f02a0507ffff	h3place				11.67889	53.87459	9.0		53.874589121115484	11.67889096295389
+111	https://www.openstreetmap.org/way/413374256	osmplace				11.57709	53.91128				
+112	https://www.openstreetmap.org/way/498984674	osmplace				11.61919	53.86271				
+113	https://www.openstreetmap.org/way/498980098	osmplace				11.61907	53.86403				
+114	https://www.openstreetmap.org/way/315976219	osmplace				11.39745	53.90007				
+115	https://www.openstreetmap.org/way/338042400	osmplace				11.39865	53.84023				
+116	https://www.openstreetmap.org/way/263481388	osmplace				11.43443	53.85753				
+117	891f02bb51bffff	h3place				11.32679	53.86439	9.0		53.864386854279495	11.326789265416888
+118	891f02b9073ffff	h3place				11.3399	53.79313	9.0		53.7931250893445	11.339896256763222
+119	891f02b1e8bffff	h3place				11.50151	53.91646	9.0		53.916463617069454	11.50151319706512
+120	891f02a1017ffff	h3place				11.59193	53.81981	9.0		53.81981395920263	11.591931363529119
+121	https://www.openstreetmap.org/way/315976220	osmplace				11.39697	53.90052				
+122	https://www.openstreetmap.org/way/315976218	osmplace				11.39657	53.90069				
+123	https://www.openstreetmap.org/way/595165944	osmplace				11.50093	53.91505				
+124	https://www.openstreetmap.org/way/547465957	osmplace				11.50056	53.91562				
+125	891f02b8533ffff	h3place				11.43339	53.85583	9.0		53.855832745928446	11.433389025380963
+126	https://www.openstreetmap.org/way/498807221	osmplace				11.66013	53.825				
+127	891f02bac37ffff	h3place				11.47061	53.89242	9.0		53.89242251435491	11.470613122829885
+128	https://www.openstreetmap.org/way/410338554	osmplace				11.44369	53.86513				
+129	https://www.openstreetmap.org/way/363084437	osmplace				11.6139	53.95998				
+130	https://www.openstreetmap.org/way/316094779	osmplace				11.61905	53.96775				
+131	https://www.openstreetmap.org/way/316091171	osmplace				11.5319	53.89342				
+132	https://www.openstreetmap.org/way/395596918	osmplace				11.24997	53.86412				
+133	https://www.openstreetmap.org/way/498807222	osmplace				11.66062	53.82434				
+134	https://www.openstreetmap.org/way/346528636	osmplace				11.58689	53.88645				
+135	https://www.openstreetmap.org/way/366484426	osmplace				11.52952	53.90625				
+136	https://www.openstreetmap.org/way/210442004	osmplace				11.38508	53.90109				
+137	https://www.openstreetmap.org/way/316091174	osmplace				11.52823	53.8944				
+138	https://www.openstreetmap.org/way/381739289	osmplace				11.44793	53.86948				
+139	https://www.openstreetmap.org/way/750724789	osmplace				11.42914	53.85533				
+140	https://www.openstreetmap.org/way/321349792	osmplace				11.4116	53.84848				
+141	https://www.openstreetmap.org/way/296833991	osmplace				11.29852	53.86127				
+142	https://www.openstreetmap.org/way/806398463	osmplace				11.49382	53.92651				
+143	https://www.openstreetmap.org/way/315976216	osmplace				11.39793	53.89952				
+144	891f02b91d3ffff	h3place				11.35925	53.80428	9.0		53.80428162186485	11.359247088055906
+145	891f02a319bffff	h3place				11.59368	53.87536	9.0		53.87536324327635	11.593683673826918
+146	891f02bae67ffff	h3place				11.44767	53.86657	9.0		53.866572217759355	11.447670789712076
+147	891f02a019bffff	h3place				11.68503	53.86542	9.0		53.86541651181876	11.685026086802855
+148	https://www.openstreetmap.org/way/884321303	osmplace				11.59328	53.92094				
+149	https://www.openstreetmap.org/way/316092999	osmplace				11.57631	53.91081				
+150	https://www.openstreetmap.org/way/260993391	osmplace				11.56584	53.90456				
+151	https://www.openstreetmap.org/way/551647223	osmplace				11.54733	53.89769				
+152	https://www.openstreetmap.org/way/322698084	osmplace				11.44196	53.86383				
+153	https://www.openstreetmap.org/way/687684742	osmplace				11.61927	53.86457				
+154	https://www.openstreetmap.org/way/296834699	osmplace				11.36131	53.80399				
+155	https://www.openstreetmap.org/way/366777595	osmplace				11.67508	53.86746				
+156	https://www.openstreetmap.org/way/316094135	osmplace				11.6124	53.94291				
+157	https://www.openstreetmap.org/way/393565779	osmplace				11.45593	53.82858				
+158	https://www.openstreetmap.org/node/5014405138	osmplace				11.44056	53.99515				
+159	https://www.openstreetmap.org/way/687172327	osmplace				11.4415	53.86347				
+160	https://www.openstreetmap.org/way/315967085	osmplace				11.38555	53.90369				
+161	https://www.openstreetmap.org/way/316091173	osmplace				11.532	53.89353				
+162	https://www.openstreetmap.org/way/314231666	osmplace				11.43942	53.86131				
+163	https://www.openstreetmap.org/way/316094781	osmplace				11.61833	53.96647				
+164	https://www.openstreetmap.org/node/386110984	osmplace				11.46967	53.8925				
+165	https://www.openstreetmap.org/node/8598959093	osmplace				11.3163	53.94134				
+166	https://www.openstreetmap.org/way/925358001	osmplace				11.26826	53.93066				
+167	https://www.openstreetmap.org/way/310902723	osmplace				11.50295	53.94607				
+168	https://www.openstreetmap.org/way/357088208	osmplace				11.53754	53.88894				
+169	https://www.openstreetmap.org/way/350785441	osmplace				11.58661	53.81609				
+170	https://www.openstreetmap.org/way/354603427	osmplace				11.56546	53.87021				
+171	https://www.openstreetmap.org/way/315976217	osmplace				11.39594	53.90117				
+172	https://www.openstreetmap.org/way/312660923	osmplace				11.52768	53.89378				
+173	https://www.openstreetmap.org/way/595165940	osmplace				11.50213	53.91476				
+174	https://www.openstreetmap.org/way/845500772	osmplace				11.59321	53.87629				
+175	https://www.openstreetmap.org/way/322857161	osmplace				11.52649	53.88772				
+176	https://www.openstreetmap.org/way/858740037	osmplace				11.44958	53.87072				
+177	https://www.openstreetmap.org/way/238282992	osmplace				11.41683	53.75935				
+178	https://www.openstreetmap.org/way/882173336	osmplace				11.35801	53.80157				
+179	https://www.openstreetmap.org/way/547465955	osmplace				11.50005	53.91552				
+180	https://www.openstreetmap.org/way/587926598	osmplace				11.43409	53.80177				
+181	https://www.openstreetmap.org/way/305457946	osmplace				11.37729	53.99438				
+182	https://www.openstreetmap.org/way/396723947	osmplace				11.68642	53.8645				
+183	https://www.openstreetmap.org/way/600807373	osmplace				11.48372	53.89492				
+184	https://www.openstreetmap.org/relation/10413399	osmplace				11.442	53.89756				
+185	https://www.openstreetmap.org/way/858740032	osmplace				11.44773	53.87122				
+186	https://www.openstreetmap.org/way/316094780	osmplace				11.61975	53.9689				
+187	https://www.openstreetmap.org/way/261101097	osmplace				11.45564	53.8529				
+188	https://www.openstreetmap.org/way/315976215	osmplace				11.3969	53.90059				
+189	https://www.openstreetmap.org/way/315967090	osmplace				11.38403	53.90386				
+190	https://www.openstreetmap.org/way/315967082	osmplace				11.37895	53.90337				
+191	https://www.openstreetmap.org/way/316094138	osmplace				11.61243	53.94303				
+192	https://www.openstreetmap.org/way/338042399	osmplace				11.40316	53.84534				
+193	https://www.openstreetmap.org/way/383577887	osmplace				11.50184	53.91588				
+194	https://www.openstreetmap.org/way/858740040	osmplace				11.45058	53.86826				
+195	https://www.openstreetmap.org/way/882173334	osmplace				11.39044	53.82787				
+196	https://www.openstreetmap.org/way/356011637	osmplace				11.67801	53.87377				
+197	https://www.openstreetmap.org/way/410338558	osmplace				11.41846	53.8853				
+198	https://www.openstreetmap.org/way/383987058	osmplace				11.4225	53.88745				
+199	https://www.openstreetmap.org/way/260927031	osmplace				11.44451	53.86603				
+200	https://www.openstreetmap.org/way/687170451	osmplace				11.44144	53.86341				
+201	https://www.openstreetmap.org/node/6688164286	osmplace				11.44104	53.9956				
+202	https://www.openstreetmap.org/way/362025440	osmplace				11.61495	53.94276				
+203	https://www.openstreetmap.org/way/350785423	osmplace				11.62252	53.81935				
+204	https://www.openstreetmap.org/way/858740033	osmplace				11.44811	53.8711				
+205	https://www.openstreetmap.org/way/316093000	osmplace				11.57709	53.91128				
+206	https://www.openstreetmap.org/way/316092412	osmplace				11.54232	53.89601				
+207	https://www.openstreetmap.org/way/316091158	osmplace				11.53158	53.89318				
+208	https://www.openstreetmap.org/way/381739010	osmplace				11.44482	53.86639				
+209	https://www.openstreetmap.org/way/877683729	osmplace				11.33154	53.86643				
+210	https://www.openstreetmap.org/way/392033978	osmplace				11.3652	53.80716				
+211	https://www.openstreetmap.org/way/363084452	osmplace				11.61323	53.95774				
+212	https://www.openstreetmap.org/way/67626643	osmplace				11.39321	53.76354				
+213	https://www.openstreetmap.org/way/357088217	osmplace				11.54216	53.89464				
+214	https://www.openstreetmap.org/way/882173337	osmplace				11.35801	53.80157				
+215	https://www.openstreetmap.org/way/374243413	osmplace				11.46135	53.91373				
+216	https://www.openstreetmap.org/way/355648468	osmplace				11.57758	53.87953				
+217	https://www.openstreetmap.org/way/366484399	osmplace				11.52712	53.9132				
+218	https://www.openstreetmap.org/way/316094133	osmplace				11.61248	53.94322				
+219	https://www.openstreetmap.org/way/498807223	osmplace				11.66139	53.82325				
+220	https://www.openstreetmap.org/way/316091167	osmplace				11.53171	53.89368				
+221	https://www.openstreetmap.org/way/316092415	osmplace				11.53641	53.89446				
+222	https://www.openstreetmap.org/way/884321304	osmplace				11.59934	53.92594				
+223	https://www.openstreetmap.org/way/339319096	osmplace				11.43391	53.85604				
+224	https://www.openstreetmap.org/way/322698085	osmplace				11.43861	53.86046				
+225	https://www.openstreetmap.org/way/392033982	osmplace				11.33326	53.78777				
+226	https://www.openstreetmap.org/way/724295619	osmplace				11.42572	53.87315				
+227	https://www.openstreetmap.org/way/882173332	osmplace				11.43359	53.85542				
+228	https://www.openstreetmap.org/way/339319097	osmplace				11.43331	53.85522				
+229	https://www.openstreetmap.org/way/321349790	osmplace				11.41947	53.85334				
+230	https://www.openstreetmap.org/way/877683730	osmplace				11.3236	53.86478				
+231	https://www.openstreetmap.org/way/882173340	osmplace				11.34412	53.79447				
+232	https://www.openstreetmap.org/way/499770256	osmplace				11.532	53.8933				
+233	https://www.openstreetmap.org/way/392033980	osmplace				11.33976	53.79196				
+234	https://www.openstreetmap.org/node/6366883294	osmplace				11.46561	53.8921				
+235	https://www.openstreetmap.org/way/429377095	osmplace				11.53827	53.89373				
+236	https://www.openstreetmap.org/way/316094137	osmplace				11.6124	53.94291				
+237	https://www.openstreetmap.org/way/884321305	osmplace				11.59714	53.92374				
+238	https://www.openstreetmap.org/way/498984670	osmplace				11.64614	53.84388				
+239	https://www.openstreetmap.org/way/381739298	osmplace				11.44809	53.86983				
+240	https://www.openstreetmap.org/way/381739009	osmplace				11.4456	53.86722				
+241	https://www.openstreetmap.org/way/338042397	osmplace				11.39618	53.8326				
+242	https://www.openstreetmap.org/way/547465956	osmplace				11.5003	53.91557				
+243	https://www.openstreetmap.org/way/93475712	osmplace				11.57571	53.78776				
+244	https://www.openstreetmap.org/way/858740034	osmplace				11.44814	53.87017				
+245	https://www.openstreetmap.org/way/551646603	osmplace				11.52715	53.89266				
+246	https://www.openstreetmap.org/way/322857244	osmplace				11.62101	53.86871				
+247	https://www.openstreetmap.org/way/600807376	osmplace				11.46496	53.89794				
+248	https://www.openstreetmap.org/way/316094134	osmplace				11.61231	53.94273				
+249	https://www.openstreetmap.org/way/316091169	osmplace				11.52958	53.89429				
+250	https://www.openstreetmap.org/way/316091160	osmplace				11.53101	53.89303				
+251	https://www.openstreetmap.org/way/882173339	osmplace				11.3413	53.79295				
+252	https://www.openstreetmap.org/way/569535883	osmplace				11.45768	53.85056				
+253	https://www.openstreetmap.org/way/594849773	osmplace				11.4682	53.90536				
+254	https://www.openstreetmap.org/way/390818373	osmplace				11.52747	53.89343				
+255	https://www.openstreetmap.org/way/410338561	osmplace				11.42074	53.88401				
+256	https://www.openstreetmap.org/way/392033981	osmplace				11.33809	53.79088				
+257	https://www.openstreetmap.org/way/547465954	osmplace				11.49981	53.91548				
+258	https://www.openstreetmap.org/way/318967085	osmplace				11.5008	53.91566				
+259	https://www.openstreetmap.org/way/357088200	osmplace				11.53748	53.89133				
+260	https://www.openstreetmap.org/way/583565736	osmplace				11.46669	53.90509				
+261	https://www.openstreetmap.org/way/316094136	osmplace				11.61189	53.94202				
+262	https://www.openstreetmap.org/way/858740036	osmplace				11.45	53.87047				
+263	https://www.openstreetmap.org/way/315976221	osmplace				11.39646	53.90094				
+264	https://www.openstreetmap.org/node/4340535516	osmplace				11.47501	53.90043				
+265	https://www.openstreetmap.org/way/350785425	osmplace				11.59304	53.81969				
+266	-	osmplace				0.0	0.0				
+267	https://www.openstreetmap.org/way/687684743	osmplace				11.6198	53.86576				
+268	https://www.openstreetmap.org/way/858740031	osmplace				11.44661	53.87141				
+269	https://www.openstreetmap.org/way/315967084	osmplace				11.37933	53.90354				
+270	https://www.openstreetmap.org/way/315967088	osmplace				11.38767	53.9034				
+271	https://www.openstreetmap.org/way/687684740	osmplace				11.64633	53.84362				
+272	https://www.openstreetmap.org/way/363084455	osmplace				11.60827	53.95985				
+273	https://www.openstreetmap.org/way/229785618	osmplace				11.67543	53.86077				
+274	https://www.openstreetmap.org/way/383026074	osmplace				11.51637	53.88777				
+275	https://www.openstreetmap.org/way/260993390	osmplace				11.56799	53.90584				
+276	https://www.openstreetmap.org/way/858740035	osmplace				11.44836	53.87056				
+277	https://www.openstreetmap.org/way/393627335	osmplace				11.43358	53.79597				
+278	https://www.openstreetmap.org/way/354492379	osmplace				11.62397	53.86297				
+279	https://www.openstreetmap.org/way/316091162	osmplace				11.53243	53.89341				
+280	https://www.openstreetmap.org/way/338042398	osmplace				11.40937	53.84728				
+281	https://www.openstreetmap.org/way/321539688	osmplace				11.32247	53.86455				
+282	https://www.openstreetmap.org/way/361425332	osmplace				11.61118	53.905				
+283	https://www.openstreetmap.org/way/383059560	osmplace				11.48072	53.90873				
+284	https://www.openstreetmap.org/way/410338559	osmplace				11.39857	53.89903				
+285	https://www.openstreetmap.org/way/395596919	osmplace				11.26073	53.86216				
+286	https://www.openstreetmap.org/way/310902724	osmplace				11.5052	53.94491				
+287	https://www.openstreetmap.org/way/316092414	osmplace				11.54081	53.89561				
+288	https://www.openstreetmap.org/way/381739293	osmplace				11.44762	53.86918				
+289	https://www.openstreetmap.org/way/316092411	osmplace				11.54131	53.89574				
+290	https://www.openstreetmap.org/way/595165942	osmplace				11.50186	53.91547				
+291	https://www.openstreetmap.org/way/351150124	osmplace				11.5849	53.81335				
+292	https://www.openstreetmap.org/way/365539353	osmplace				11.5307	53.98732				
+293	https://www.openstreetmap.org/way/229784801	osmplace				11.67751	53.86003				
+294	https://www.openstreetmap.org/way/355766946	osmplace				11.5665	53.86804				
+295	https://www.openstreetmap.org/way/316091159	osmplace				11.53371	53.89376				
+296	https://www.openstreetmap.org/way/882173333	osmplace				11.39151	53.82869				
+297	https://www.openstreetmap.org/way/321539689	osmplace				11.31413	53.86391				
+298	https://www.openstreetmap.org/way/209412615	osmplace				11.56154	53.79246				
+299	https://www.openstreetmap.org/way/410338560	osmplace				11.42133	53.88342				
+300	https://www.openstreetmap.org/way/316091161	osmplace				11.52983	53.89272				
+301	https://www.openstreetmap.org/way/321539690	osmplace				11.32768	53.86569				
+302	https://www.openstreetmap.org/way/321539687	osmplace				11.30588	53.86177				
+303	taxiway	osmtag									
+304	primary	osmtag									
+305	fast_food	osmtag									
+306	1	osmtag									
+307	apron	osmtag									
+308	industrial	osmtag									
+309	hangar	osmtag									
+310	quarry	osmtag									
+311	trunk	osmtag									
+312	https://www.openstreetmap.org/way/316092998	osmplace				11.57756	53.91155				
+313	https://www.openstreetmap.org/way/261101096	osmplace				11.45988	53.8441				
+314	https://www.openstreetmap.org/way/93575443	osmplace				11.516	53.7832				
+315	https://www.openstreetmap.org/way/354603429	osmplace				11.56843	53.86993				
+316	https://www.openstreetmap.org/way/354001459	osmplace				11.5261	53.85088				
+317	https://www.openstreetmap.org/way/354001409	osmplace				11.51844	53.85514				
+318	https://www.openstreetmap.org/way/346496711	osmplace				11.60322	53.84654				
+319	https://www.openstreetmap.org/way/383596324	osmplace				11.49287	53.92817				

@@ -1,0 +1,16 @@
+0
+ industrial
+ yes
+ joiner
+ scaffolder
+ sawmill
+ apron
+ wholesale
+ painter
+ depot
+ hvac
+ technical_monument
+ nightclub
+ golf_course
+ electrician; hvac
+ pottery

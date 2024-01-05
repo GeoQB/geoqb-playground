@@ -1,0 +1,25 @@
+{
+    "location_name": "Aue",
+    "run_id": "du___Aue___30___891e34d61d3ffff___latest",
+    "center": [
+        50.597179,
+        12.707037
+    ],
+    "centerURI": null,
+    "myBBCenter_h3index": "891e34d61d3ffff",
+    "bb": "(35.597179, -2.2929630000000003, 65.597179, 27.707037);",
+    "area": null,
+    "l": 30,
+    "zoom": 9,
+    "title": "Transport_POS_amenity around (Aue) radius=15.0",
+    "qn": "Transport_POS_amenity around (Aue) radius=15.0",
+    "query": "\nSELECT ?osmid ?distance ?loc ?tag WHERE {\n  VALUES ?tag { \"bicycle_parking\" \"bicycle_repair_station\" \"bicycle_rental\" \"bus_station\" \"car_sharing\" \"charging_station\" }\n  ?osmid osmt:amenity ?tag . \n  SERVICE wikibase:around { \n      ?osmid osmm:loc ?loc . \n      bd:serviceParam wikibase:center \"Point(12.707037 50.597179)\"^^geo:wktLiteral . \n      bd:serviceParam wikibase:radius \"15\" . \n      bd:serviceParam wikibase:distance ?distance .\n  } \n  FILTER(?distance < 15)\n} \n    ",
+    "fnLinks": "graph_layers/edges/Aue_r15.0_Transport_POS_amenity_tag_links.csv",
+    "fnPlaces": "graph_layers/vertexes/Aue_r15.0_Transport_POS_amenity_places_nodes.csv",
+    "fnGrid": "graph_layers/grid/Aue_r15.0_Transport_POS_amenity_grid.csv",
+    "fnRawOSMResponse": null,
+    "fnRawSophoxResponse": "raw/Aue_r15.0_Transport_POS_amenity_raw_sophox.json",
+    "fnMD": "md/Aue_r15.0_Transport_POS_amenity_MD.json",
+    "weight": 1,
+    "label": "Transport_POS"
+}

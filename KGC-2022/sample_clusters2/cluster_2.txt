@@ -1,0 +1,15 @@
+platform
+ stop_position
+ station
+ dog_park
+ metal_construction
+ stonemason
+ bus_station
+ caterer
+ heritage
+ stop_area_group
+ surfing;kitesurfing
+ casino
+ mason
+ plasterer
+ station;stop_position

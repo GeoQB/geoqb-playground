@@ -1,0 +1,25 @@
+{
+    "location_name": "Stollberg",
+    "run_id": "du___Stollberg___30___891e349b5afffff___latest",
+    "center": [
+        50.704369,
+        12.760004
+    ],
+    "centerURI": null,
+    "myBBCenter_h3index": "891e349b5afffff",
+    "bb": "(35.704369, -2.2399959999999997, 65.704369, 27.760004000000002);",
+    "area": null,
+    "l": 30,
+    "zoom": 9,
+    "title": "Environment_POS_amenity around (Stollberg) radius=15.0",
+    "qn": "Environment_POS_amenity around (Stollberg) radius=15.0",
+    "query": "\nSELECT ?osmid ?distance ?loc ?tag WHERE {\n  VALUES ?tag {  \"fountain\" \"tourism\" }\n  ?osmid osmt:amenity ?tag . \n  SERVICE wikibase:around { \n      ?osmid osmm:loc ?loc . \n      bd:serviceParam wikibase:center \"Point(12.760004 50.704369)\"^^geo:wktLiteral . \n      bd:serviceParam wikibase:radius \"15\" . \n      bd:serviceParam wikibase:distance ?distance .\n  } \n  FILTER(?distance < 15)\n} \n    ",
+    "fnLinks": "graph_layers/edges/Stollberg_r15.0_Environment_POS_amenity_tag_links.csv",
+    "fnPlaces": "graph_layers/vertexes/Stollberg_r15.0_Environment_POS_amenity_places_nodes.csv",
+    "fnGrid": "graph_layers/grid/Stollberg_r15.0_Environment_POS_amenity_grid.csv",
+    "fnRawOSMResponse": null,
+    "fnRawSophoxResponse": "raw/Stollberg_r15.0_Environment_POS_amenity_raw_sophox.json",
+    "fnMD": "md/Stollberg_r15.0_Environment_POS_amenity_MD.json",
+    "weight": 1,
+    "label": "Environment_POS"
+}
