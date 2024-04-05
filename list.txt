@@ -1,0 +1,10 @@
+blob 230b5a6e59def5beab16b21c84a2d33174bbbf0f 254.69 MB KGC-2022/stage/data4good/population_deu_2019-07-01.csv.zip
+blob ae5398f1ba763ce326dbd492d725ec737a6edd0f 12.114 MB KGC-2022/sample_clusters2/OSMLayers_Demo6a_9_OSM_tag_layer_data.json
+blob 984af9c34c6631c7db19ce4e6f986763c110e456 11.7518 MB KGC-2022/sample_clusters2/node_embedding_f2.txt
+blob 8779584add25318973cc461ebb68b231203345e9 9.63211e-05 MB KGC-2022/graph_layers/edges/Stralsund_r15.0_Environment_POS_amenity_tag_links.csv
+blob 2f49a0d6ec93af738a66f628c8d7a4d14d2d439d 9.34601e-05 MB KGC-2022/graph_layers/edges/Wismar_r15.0_Environment_POS_amenity_tag_links.csv
+blob ce224fb731fa04acb6c4922f1468022142ea1f9f 9.34601e-05 MB KGC-2022/graph_layers/edges/Stralsund_r15.0_Services_NEG_amenity_tag_links.csv
+blob d1b6ab1807007ee6a5f9e7086488cbca78da8074 9.25064e-05 MB KGC-2022/graph_layers/edges/Stollberg_r15.0_Leisure_NEG_leisure_tag_links.csv
+blob eb53511c0aa3d2de7cf7d6b4cb5e1f675ca8d812 9.25064e-05 MB KGC-2022/graph_layers/edges/Stralsund_r15.0_Leisure_NEG_leisure_tag_links.csv
+blob b8c3399c10a4d01faf5457993bfbf36117ed36f4 9.15527e-05 MB KGC-2022/graph_layers/edges/Chemnitz_r15.0_Leisure_NEG_leisure_tag_links.csv
+blob ba7753bda6f70055c6a66669c85dfa087ed64716 9.05991e-05 MB KGC-2022/graph_layers/edges/Zwickau_r15.0_Leisure_NEG_leisure_tag_links.csv
